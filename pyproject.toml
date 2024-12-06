@@ -1,0 +1,12 @@
+[project]
+name = "udacity-deaws-datapipelines"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+dev-dependencies = [
+    "black>=24.10.0",
+]
